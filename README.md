@@ -1,5 +1,8 @@
 # ListenMyBook
 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) <a href="https://github.com/wdharmana/ListenMyBook/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/github/contributors/wdharmana/ListenMyBook" /></a> ![GitHub repo size](https://img.shields.io/github/repo-size/wdharmana/ListenMyBook) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/wdharmana/ListenMyBook) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/wdharmana/ListenMyBook)
+
 Let’s imagine you visit Library in your area. You pick one book, choose favorite seat and read the physical book. Boring? Maybe. But it’s a normal step to enjoy book in Library and other place. Why we don’t try to download e-Book or audiobook? Simple. Not all of your favorite book will available on that version.  Have you think about “How we can listen what book we read?”.  That’s why I want to develop ListenMyBook.
 
 ListenMyBook is Android App that give user different experience when reading book using power of Machine Learning.  Every user who using this app will have to take picture of book page and can listen what content of the book. ListenMyBook also give possibility to convert book page content into any language and listen the voice easily. 
