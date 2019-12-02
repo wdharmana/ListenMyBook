@@ -24,7 +24,7 @@ I just work in ListenMyBook project that everyone can monitor here: https://gith
 <li>MLKit On-Device Translation: offer user option to translate text from image</li>
 <li>Google Cloud Text to Speech: convert text from book or translated text into voice</li>
 <li>Firebase Auth: User can login / register with Facebook / Google Account to manage their collection</li>
- <ul>
+ </ul>
          
 #### 2) a list of the ways you could use Google’s help
 <ul>
@@ -37,26 +37,26 @@ I just work in ListenMyBook project that everyone can monitor here: https://gith
 #### 3) as well as the timeline on how you plan on bringing it to life by May 1, 2020
 Here the development plan for ListenMyBook project:
 
-December, 2019
-Design UI/UX for Mobile App
-UI/UX Implementation for Mobile App
-Third Party / Platform Initial Integration
+#### December, 2019
+- Design UI/UX for Mobile App
+- UI/UX Implementation for Mobile App
+- Third Party / Platform Initial Integration
 
-January, 2020
-Pick Picture from Camera
-Get Text from Camera with MLKit 
-Translate Text into Specific Language with MLKit
-Convert Text into Voice with Google Cloud TTS
+#### January, 2020
+- Pick Picture from Camera
+- Get Text from Camera with MLKit 
+- Translate Text into Specific Language with MLKit
+- Convert Text into Voice with Google Cloud TTS
 
-February, 2020 [until Mid]
-Authentication with Google Sign In
-Manage Collection
-Improve Offline-First Listening
+#### February, 2020 [until Mid]
+- Authentication with Google Sign In
+- Manage Collection
+- Improve Offline-First Listening
 
-February, 2020 [Mid] - March, 2020
-Mentoring session and get feedback from Mentor
-Get user feedback with user acceptance test
-Release to Public
+#### February, 2020 [Mid] - March, 2020
+- Mentoring session and get feedback from Mentor
+- Get user feedback with user acceptance test
+- Release to Public
 
 
 
